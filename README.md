@@ -4,7 +4,7 @@ Simple CRUD Operation in Android Studio using SQLite Database.
 This Android application provides a Create-Read-Update-Delete (CRUD) Operation with the use of SQLite Database.
 The objective of this project is to help some new developers specially students who wants learn Android App Development with SQLite Database.
 
-APP FEATURES:
+1. APP FEATURES:
 	- Simple Splash Screen
 	- Contact List
 	- Add New Contact List
@@ -12,7 +12,7 @@ APP FEATURES:
 	- Edit/Update Contact Info
 	- Delete Contact
 
-APP VALIDATIONS:
+2. APP VALIDATIONS:
 	Add/Edit Contact
 	- Error Message display when adding new contact with incomplete fields.
 	- Character input type of Contact Number is Number only. 
